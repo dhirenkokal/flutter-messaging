@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "508490322645",
+    "project_id": "messaging-6a5ad",
+    "storage_bucket": "messaging-6a5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508490322645:android:647d201f974f83d05dc85c",
+        "android_client_info": {
+          "package_name": "com.example.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508490322645-t3nonlm3n09jkked8oo64au876eu1uf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messaging",
+            "certificate_hash": "3931cea79031566916134c8afd1be514cf581a6a"
+          }
+        },
+        {
+          "client_id": "508490322645-rf4rt8ocm1cbd2pdicaqo1906qa5ipdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGt4-eW63pZ7ZeQyfvaRYYeHvkwgW5bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508490322645-rf4rt8ocm1cbd2pdicaqo1906qa5ipdr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508490322645-eglnt6fdptvte4p1g8g5thmbsb2vc98a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messaging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
